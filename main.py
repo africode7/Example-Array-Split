@@ -1,5 +1,5 @@
 up = "administratoruzi@thispassword288"
-splits = up.split("@")
+splits = up.split("@") # Split Methods. to remove @ symbols.
 
 # Extract From Array to String
 username = splits[0]
